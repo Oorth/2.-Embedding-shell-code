@@ -1,0 +1,3 @@
+#define SC_ICON 1010
+SC_ICON RCDATA "calc.ico"
+
